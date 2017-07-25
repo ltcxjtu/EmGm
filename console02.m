@@ -1,4 +1,6 @@
- clear;
+% refrence:
+% online learning for audio cluster and segmentation
+clear;
 % close all;
 MU1 = [3 0];
 SIGMA1 = [2 1; 1 4];
